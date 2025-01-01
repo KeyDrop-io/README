@@ -1,4 +1,4 @@
-# <img src="keydrop.png" alt="KeyDrop Logo" width="150" height="150"> KeyDrop
+# KeyDrop <img src="keydrop.png" alt="KeyDrop Logo" width="150" height="150">
 
 KeyDrop is a volunteer-driven project aimed at reducing API abuse by cyber criminals. We develop tools to automate the reporting of leaked API keys, helping to secure and protect online services.
 
